@@ -1,3 +1,3 @@
 # Github
 
-Arquivo da aula de Git e Github para iniciantes 3
+Arquivo da aula de Git e Github para iniciantes
